@@ -1,0 +1,4 @@
+wget https://corenlp.ai \
+   --user api_key --password api_secret \
+   --post-data "The fox jumped over the lazy dog" \
+   -O -
