@@ -1,0 +1,3 @@
+curl https://corenlp.ai \
+   -u api_key:api_secret \
+   -d "The fox jumped over the lazy dog"
